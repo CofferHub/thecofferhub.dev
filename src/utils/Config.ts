@@ -1,6 +1,7 @@
 export const Config = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
-  locale: 'en',
+  site_name: 'Coffer',
+  title: 'The Coffer Hub',
+  description:
+    'Grupo Mastermind onde buscamos colaborar para construir ótimas ferramentas e aplicativos.',
+  locale: 'pt',
 };

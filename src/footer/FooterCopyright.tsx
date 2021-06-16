@@ -17,7 +17,9 @@ const FooterCopyright = () => (
     {' '}
     by
     {' '}
-    <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
+    <a href="https://github.com/CofferHub" target="_blank" rel="noopener noreferrer">
+      CofferHub
+    </a>
     {/*
      * PLEASE READ THIS SECTION
      * We'll really appreciate if you could have a link to our website
