@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Link from 'next/link';
+import { FaGithub, FaDiscord } from 'react-icons/fa';
 
 import { Background } from '../background/Background';
 import { Button } from '../button/Button';
@@ -14,13 +15,17 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            <a>GitHub</a>
+          <Link href="https://github.com/CofferHub">
+            <a target="_blank" rel="noopener">
+              <FaGithub />
+            </a>
           </Link>
         </li>
         <li>
-          <Link href="/">
-            <a>Sign in</a>
+          <Link href="https://discord.gg/Fzk2PBB">
+            <a target="_blank" rel="noopener">
+              <FaDiscord />
+            </a>
           </Link>
         </li>
       </NavbarTwoColumns>
