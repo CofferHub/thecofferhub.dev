@@ -9,7 +9,7 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Faça networking, Crie ferramentas e compartilhe conhecimento."
+      title="Faça networking, Crie ferramentas e Compartilhe conhecimento."
       subtitle="Junte-se ao nosso grupo do discord e vamos aprender juntos."
       button={(
         <Link href="https://discord.gg/Fzk2PBB">

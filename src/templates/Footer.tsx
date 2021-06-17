@@ -49,18 +49,23 @@ const Footer = () => (
         )}
       >
         <li>
-          <Link href="/">
+          <Link href="#description">
             <a>Home</a>
           </Link>
         </li>
         <li>
-          <Link href="/">
+          <Link href="#description">
             <a>Sobre</a>
           </Link>
         </li>
         <li>
-          <Link href="/">
-            <a>Docs</a>
+          <Link href="#projects">
+            <a>Projetos</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="#meetups">
+            <a>Meetups</a>
           </Link>
         </li>
       </CenteredFooter>

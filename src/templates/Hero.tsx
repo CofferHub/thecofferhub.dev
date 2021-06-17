@@ -41,11 +41,18 @@ const Hero = () => (
         )}
         description="Uma grupo mastermind de desenvolvedores em busca de colaboração para construir ferramentas e aplicações."
         button={(
-          <Link href="https://discord.gg/Fzk2PBB">
-            <a target="_blank" rel="noopener">
-              <Button xl>SEJA MEMBRO</Button>
-            </a>
-          </Link>
+          <>
+            <Link href="https://discord.gg/Fzk2PBB">
+              <a target="_blank" rel="noopener">
+                <Button xl>SEJA MEMBRO</Button>
+              </a>
+            </Link>
+            <Link href="https://github.com/CofferHub">
+              <a target="_blank" rel="noopener" style={{ marginLeft: 10 }}>
+                <Button xl>CONTRIBUA</Button>
+              </a>
+            </Link>
+          </>
         )}
       />
     </Section>
