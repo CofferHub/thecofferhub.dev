@@ -4,5 +4,4 @@ export const Config = {
   description:
     'Grupo Mastermind onde buscamos colaborar para construir ótimas ferramentas e aplicativos.',
   locale: 'pt',
-  publicUrl: '',
 };
