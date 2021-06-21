@@ -39,7 +39,7 @@ const Hero = () => (
             {'TECNOLOGIA, EDUCAÇÃO E COMUNIDADE\n'}
           </>
         )}
-        description="Uma grupo mastermind de desenvolvedores(as) em busca de colaboração para construir ferramentas e aplicações."
+        description="Um grupo mastermind de desenvolvedores(as) em busca de colaboração para construir ferramentas e aplicações."
         button={(
           <>
             <Link href="https://discord.gg/Fzk2PBB">
