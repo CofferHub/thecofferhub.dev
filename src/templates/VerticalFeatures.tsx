@@ -10,7 +10,7 @@ const VerticalFeatures = () => (
   >
     <VerticalFeatureRow
       title="Propósito e Público Alvo"
-      description="A proposta da comunidade no discord é github, e permitir que desenvolvedores(as), estudantes, professores(as) de universidade e amantes de tecnologia possam ter um ambiente para troca de conhecimento e também para realização de projetos, ferramentas e aplicações com foco na comunidade."
+      description="A proposta da comunidade no discord e github, é permitir que desenvolvedores(as), estudantes, professores(as) de universidade e amantes de tecnologia possam ter um ambiente para troca de conhecimento e também para realização de projetos, ferramentas e aplicações com foco na comunidade."
       image="/assets/illustrations/undraw_development.svg"
       imageAlt="First feature alt text"
       id="description"
